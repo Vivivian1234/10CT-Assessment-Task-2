@@ -23,6 +23,17 @@ Functional and non-functional requirements of the app
 
 3 web applications that influence ppl
 
+| App | Plus | Minus | Implications |
+|-----|------|-------|--------------|
+| App 1| -Good stuff | -ehh stuff | What to add |
+| App 2| -Good stuff | -ehh stuff | What to add |
+| App 3| -Good stuff | -ehh stuff | What to add |
+
+nice
+
+
+
+
 ### *Secondary Research*
 
 2-3 reputable source, finding of data in 2 paragraphs
