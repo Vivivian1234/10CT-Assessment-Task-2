@@ -19,6 +19,9 @@ The buttons that can direct to another screen include:
 
 Furthermore, in the explore tab, you can scroll on the images with the arrow keys, as coding a drag side-scroll was way too hard to code :P. I kept the scroll bar there even though it looks really ugly.
 
+ALSO it looks pretty bad on monitor....sorry i know i messed up with the relative/absolute thing it looks wayyyy better on a small laptop screen (which is what I was viewing it on), and when you view it on a monitor the things do move a bit around sorry haha yeah my mistake
+
+
 
 <br>
 <br>
