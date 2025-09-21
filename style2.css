@@ -396,3 +396,12 @@ nav ul li.active a {
     width: 140px;
 }
 
+.footer-text {
+    position: absolute;
+    bottom: 50px;
+    left: 8%;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 300;
+    opacity: 1;
+}
